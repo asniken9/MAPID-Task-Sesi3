@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "reproject_university",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::32749" } },
+"xy_coordinate_resolution": 1e-15,
+"features": [
+{"type":"Feature","properties":{"id":"node/10980520554","@id":"node/10980520554","amenity":"university","education":null,"name":"Gerbang Masuk UNIGA"},"geometry":{"type":"Point","coordinates":[676683.863463596557267,9121944.416011966764927]}},
+{"type":"Feature","properties":{"id":"node/12160369983","@id":"node/12160369983","amenity":"university","education":"university","name":"Sekolah Tinggi Pastoral IPI Malang"},"geometry":{"type":"Point","coordinates":[677711.530024538747966,9118423.841544585302472]}},
+{"type":"Feature","properties":{"id":"node/12254374527","@id":"node/12254374527","amenity":"university","education":null,"name":"Balewiyata Majelis Agung GKJW"},"geometry":{"type":"Point","coordinates":[678639.484785173088312,9116721.963998479768634]}},
+{"type":"Feature","properties":{"id":"node/12615763893","@id":"node/12615763893","amenity":"university","education":null,"name":"IKIP Budi Utomo"},"geometry":{"type":"Point","coordinates":[679279.112556067761034,9117811.328663570806384]}},
+{"type":"Feature","properties":{"id":null,"@id":null,"amenity":"University","education":null,"name":"Universitas Brawijaya"},"geometry":{"type":"Point","coordinates":[677954.828650365467183,9120595.381710531190038]}}
+]
+}
